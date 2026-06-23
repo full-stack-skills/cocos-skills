@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/cocos-skills",
-  "repository": "https://github.com/full-statck-skills/cocos-skills",
+  "homepage": "https://github.com/full-stack-skills/cocos-skills",
+  "repository": "https://github.com/full-stack-skills/cocos-skills",
   "source": "./",
   "skills": [
     "./skills/cocos2d-x"

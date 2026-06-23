@@ -1,7 +1,7 @@
 # CLAUDE.md — cocos-skills
 
 Part of the [Full Stack Skills](https://github.com/partme-ai/full-stack-skills) ecosystem maintained by PartMe.AI.
-This repo publishes Agent Skills installable via `npx skills add full-statck-skills/cocos-skills`.
+This repo publishes Agent Skills installable via `npx skills add full-stack-skills/cocos-skills`.
 
 ## Skills (1)
 
