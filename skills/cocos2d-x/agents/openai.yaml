@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cocos2d X"
+  short_description: "Cocos2d-x v4 game engine including scene graph, nodes…"
+  default_prompt: "Use $cocos2d-x to help with my current task: Provides comprehensive guidance for Cocos2d-x v4 game engine including scene graph, nodes, sprites, actions, animations, physics, rendering, shaders, and platform deployment."
